@@ -2,7 +2,7 @@
  * uart.c
  *
  *  Created on: Apr 1, 2024
- *      Author: manish
+ *      Author: Abhi
  */
 #include <stdio.h>
 #include "uart.h"
